@@ -2995,7 +2995,9 @@
   },
   "7323078384": {
     "name": "≠KingStecu",
-    "history": []
+    "history": [
+      "KingStecu89"
+    ]
   },
   "8831923084": {
     "name": "𝙧𝙖𝙙𝘿𝙏𓅔",
@@ -3005,6 +3007,12 @@
     "name": "Kirim Gmail",
     "history": [
       "KirimGmailBot"
+    ]
+  },
+  "8847504019": {
+    "name": "Gmail Rewarder",
+    "history": [
+      "Gmailrewarder_bot"
     ]
   }
 }
