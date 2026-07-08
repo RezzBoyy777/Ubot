@@ -405,7 +405,9 @@
   },
   "5864734973": {
     "name": "Citra",
-    "history": []
+    "history": [
+      "jk_240626_b1"
+    ]
   },
   "8768408389": {
     "name": "NOKZY OTP - ORDER NOKOS",
@@ -832,5 +834,13 @@
     "history": [
       "ambatukam805"
     ]
+  },
+  "8925730693": {
+    "name": "Raven",
+    "history": []
+  },
+  "6631505917": {
+    "name": "𝗨𝗦𝗘𝗥𝗕𝗢𝗧 𝗞𝗜𝗡𝗚 𝟭𝟬𝗞",
+    "history": []
   }
 }
