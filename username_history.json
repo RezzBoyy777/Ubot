@@ -3554,7 +3554,9 @@
   },
   "7423827025": {
     "name": "ALBRIQ",
-    "history": []
+    "history": [
+      "albriq"
+    ]
   },
   "7891950506": {
     "name": "CoinMarketCap Support",
