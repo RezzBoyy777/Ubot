@@ -705,6 +705,10 @@
       "manzdev23"
     ]
   },
+  "1625746427": {
+    "name": "Monzo Support Bank Official",
+    "history": []
+  },
   "1628392553": {
     "name": "𝐘𝐚𝐳𝐳 #66",
     "history": []
@@ -1075,7 +1079,9 @@
   },
   "2055962292": {
     "name": "support monzo banking service",
-    "history": []
+    "history": [
+      "OfficialMonzoSupportBanking12"
+    ]
   },
   "2063499428": {
     "name": "⌥𝙉𝙤͢𝙩𝙨𝙙𝙚𝙫 #1",
@@ -6104,5 +6110,9 @@
     "history": [
       "XuYizhen88"
     ]
+  },
+  "8898296648": {
+    "name": "JAK",
+    "history": []
   }
 }
