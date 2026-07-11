@@ -684,6 +684,10 @@
     "name": "ID1 ADMIN DI BIO",
     "history": []
   },
+  "1469999349": {
+    "name": "NEO",
+    "history": []
+  },
   "1476998021": {
     "name": "Dino 𝘿' 𝙇𝙪𝙘𝙖̀ 𓇢𓆸[ OFF ]",
     "history": []
@@ -3574,7 +3578,9 @@
   },
   "6072720181": {
     "name": "Dalang",
-    "history": []
+    "history": [
+      "dalangstore"
+    ]
   },
   "6847912272": {
     "name": "Mirara",
@@ -7039,6 +7045,10 @@
   },
   "8095429179": {
     "name": "UBOT BY LALA",
+    "history": []
+  },
+  "8616275130": {
+    "name": "BYFIANSTORE2",
     "history": []
   }
 }
