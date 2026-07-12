@@ -1248,7 +1248,9 @@
   },
   "1969536413": {
     "name": "Bot01",
-    "history": []
+    "history": [
+      "Bot_01_DreamingGate"
+    ]
   },
   "1973116620": {
     "name": "𝗜𝘁`𝘀 𝗞𝗮𝗳𝘇𝘆 #𝐌𝚲𖥕𝐔",
@@ -7610,5 +7612,13 @@
     "history": [
       "kangnokos354"
     ]
+  },
+  "7389118891": {
+    "name": "SUPPORT BLACKROCK",
+    "history": []
+  },
+  "8930696852": {
+    "name": "Asia Server",
+    "history": []
   }
 }
