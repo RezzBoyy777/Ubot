@@ -6909,7 +6909,9 @@
   },
   "6192005090": {
     "name": "ALBRIQ #Rasta",
-    "history": []
+    "history": [
+      "albriqq"
+    ]
   },
   "7626160347": {
     "name": "𝐓𝐨𝐦𝐢𝐨𝐤𝐚𝗫͢𝘅𝗫 𓃮",
@@ -8502,6 +8504,12 @@
     "name": "太-阳-带-发",
     "history": [
       "SD32NKBOT"
+    ]
+  },
+  "8669339091": {
+    "name": "太-阳-带-fa",
+    "history": [
+      "TMKDFBOT"
     ]
   }
 }
