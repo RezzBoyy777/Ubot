@@ -7482,7 +7482,9 @@
   },
   "6835041936": {
     "name": "H01. STEVE",
-    "history": []
+    "history": [
+      "H01STEVE"
+    ]
   },
   "6970615745": {
     "name": "Official Support KuCoin",
@@ -8860,5 +8862,21 @@
     "history": [
       "jczmz1bot"
     ]
+  },
+  "8811907378": {
+    "name": "钞票专卖3",
+    "history": [
+      "jczmz3bot"
+    ]
+  },
+  "8508790285": {
+    "name": "钞票专卖3",
+    "history": [
+      "jczmz2bot"
+    ]
+  },
+  "8647485567": {
+    "name": "Jjudposwd",
+    "history": []
   }
 }
