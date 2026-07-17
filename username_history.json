@@ -2961,10 +2961,11 @@
     ]
   },
   "8461035146": {
-    "name": "Support Monzo Banking Service",
+    "name": "Support CoinMarketCap Service",
     "history": [
       "Nepthpromosi",
-      "MonzoBangkingAdmin0012"
+      "MonzoBangkingAdmin0012",
+      "CoinMarketCap_Official_Service_4"
     ]
   },
   "8203055846": {
@@ -10406,5 +10407,21 @@
     "history": [
       "n3RNkH6V"
     ]
+  },
+  "8025308026": {
+    "name": "Xyr",
+    "history": []
+  },
+  "8845840609": {
+    "name": "Sasha",
+    "history": []
+  },
+  "8225936638": {
+    "name": "Andrey",
+    "history": []
+  },
+  "8966799476": {
+    "name": "@monansa",
+    "history": []
   }
 }
