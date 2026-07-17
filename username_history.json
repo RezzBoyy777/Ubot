@@ -3438,7 +3438,9 @@
   },
   "8709275037": {
     "name": "Lamaka #5Utama",
-    "history": []
+    "history": [
+      "LamakaUtama"
+    ]
   },
   "8362201017": {
     "name": "𝐆𝐎𝐎𝐋𝐃𝐀𝐍𝐒𝐓𝐎𝐑𝐄𝐗𝐈𝐍𝐆",
@@ -10086,5 +10088,9 @@
     "history": [
       "forsepbot"
     ]
+  },
+  "8779677361": {
+    "name": "Charlotte",
+    "history": []
   }
 }
