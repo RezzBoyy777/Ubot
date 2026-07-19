@@ -1284,7 +1284,9 @@
   },
   "1660750810": {
     "name": "Bot05",
-    "history": []
+    "history": [
+      "Bot_05_DreamingGate"
+    ]
   },
   "1661611890": {
     "name": "Yourch",
@@ -11128,6 +11130,10 @@
   },
   "8804220129": {
     "name": "Sandra",
+    "history": []
+  },
+  "5031589596": {
+    "name": "Anna",
     "history": []
   }
 }
