@@ -9745,7 +9745,9 @@
   },
   "6753768550": {
     "name": "D'Van",
-    "history": []
+    "history": [
+      "dvandraah"
+    ]
   },
   "8544720733": {
     "name": "Jesus",
@@ -12162,6 +12164,10 @@
   },
   "8780531377": {
     "name": "cs (owner bot)",
+    "history": []
+  },
+  "6475389338": {
+    "name": "BQBQ",
     "history": []
   }
 }
